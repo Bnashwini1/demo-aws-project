@@ -1,6 +1,6 @@
-customhost = "proj2db.cwpgh6kwtw81.us-east-1.rds.amazonaws.com"
+customhost = "pruu11111.cwpgh6kwtw81.us-east-1.rds.amazonaws.com"
 customuser = "admin"
 custompass = "admin123"
-customdb = "proj2db"
+customdb = "pruu11111"
 custombucket = "pro2bucket"
 customregion = "us-east-1"
