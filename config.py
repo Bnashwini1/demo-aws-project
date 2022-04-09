@@ -1,6 +1,6 @@
-customhost = "dbb2.cwpgh6kwtw81.us-east-1.rds.amazonaws.com"
+customhost = "dbashhh2.cwpgh6kwtw81.us-east-1.rds.amazonaws.com"
 customuser = "admin"
 custompass = "admin123"
-customdb = "dbb2"
+customdb = "dbashhh2"
 custombucket = "pro2awsbucketash"
 customregion = "us-east-1"
